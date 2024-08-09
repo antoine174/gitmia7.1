@@ -1,0 +1,144 @@
+these are the links to the videos
+
+1st video
+https://drive.google.com/file/d/1P20-bpZEeMKqznUG-eS8py6xfjaNDsVu/view?usp=drive_link
+
+2nd video
+https://drive.google.com/file/d/1D5QmeFM2Y2ikpb04MNENayCLl9zatmj6/view?usp=drive_link
+===========================================================================
+=========================================================================== 
+battries quetions:
+
+Problem 
+1.2
+
+
+The power of the single LED is 
+V x I =IxRxI=I²xR
+=0.1²x330
+=3.3watt
+No of LED
+1440/3.3=
+436 LEDs
+
+
+
+
+
+
+
+
+
+================================
+
+
+
+Problem 3
+
+The I total =
+
+4x4 + 1x0.5 =16.5amp
+
+Since all Electronic parts Operateur at 12v therefore we won't use any DC conventor
+
+Since the  current of the system =16.5amp
+Therefore the  current of the battery =
+1.1x the  current of the system(for safely precautions) =18.15 amp
+
+Sice we need the battery to last half an hour 
+Duration =capcity/I
+Battery's capacity =0.5x18.15=9.075amp.h
+
+I of battery =18.15amp
+Capacity =9.075amp.h
+
+
+ELCatalog Car Energy NS40ZL Battery price include installation
+
+This battery is perfect but heavy 
+
+
+
+YTX7A 12V7AH High Quality Motorcycle and Scooter Battery
+
+
+* LE 660
+* And this the also good one  we will set only two parllel but the capacity will reach 14AH
+However it is very heavy 2kg
+
+
+
+6 Volt 4.5AH Rechargeable Lead Acid battery(45g)
+This one is good but we will need to connect 
+2 series parllel with other 2 series which is equal to 1800 EGP
+And that is the suitable battery
+
+
+
+
+
+
+
+
+================================
+
+
+
+BONUS: Answer the questions that were proposed in Battery Basics session
+
+1st Q,find power sink other than the lamp?
+Ans:the wires , the internal resistance of the battery and in case using the ac and rectifying it using diodes each diode will consume power due to the drop voltage 
+
+2ndQ.1:is the power consumption of air conditioner is constant?
+Ans:no  because it varies whether there is a source of heat inside the room for ex if therE is an oven there where if itis directed to sunlight furthermore it depends on the room's volume and other factors 
+
+
+3rdQ. :calculate the avg power consumption of air conditioner?
+Ans:it can't be calculated using the method in the session because it is variable however I suggest operating it for 2 hours and the get the average by
+dividing the total energy /2h
+
+
+4thQ:why when we turn on an air conditioner, we should isolate the whole room ?
+
+1st because By isolating the room, the air conditioner can more effectively cool the space because it doesn't have to contend with heat entering from other areas 
+
+2nd of all we will save energy cause we will reach the desired temperature faster.
+
+5th Q:If we have a battery of 3.7V
+And max current of 35amp 
+Is it reasonable for the internal resistance to be 0.5 ohm?
+No bc using ohm laws 3.7/35 =0.105 which is way less than 0.5 however a battery of 3.7 V and 0.5 ohm as an internal resistance will theoretically generate a current of 3.7/0.5=7.4amp
+
+Q6:how to measure capacity of the battery:
+First of all we need to make sure that the battery is fully charged then we put inside a circuit then we calculate the resistance in this circuit and finally put an ammeter at the outlet of the battery and wait till it completely discharge now take the reading of the ammeter and multiply it by the time taken by the battery till it reached the cutoff voltage
+
+================================
+
+BONUS: Use your understanding of power and energy concepts to calculate your electricity consumption and its cost. Can you reduce it?
+  
+(refer to Battery Basics session)
+
+I live in a room there are
+
+ 5 Lamps each lamp operate at 9W/h
+
+ a fan  that usually takes 3.3Wh 
+
+ and my phone is 4500mAH and iam using battery save protector mode which let it only to be charged to 85% and the battery is 3.7V
+
+
+The total power consumption 
+
+For Lamps 
+5 Lamps x 9w x 16h =720wh
+The fan 
+3.3w x 8h=26.4wh
+The phone 
+4.5x3.7 x 0.85=14.15wh
+ (considering the efficiency of the charger 100%)
+So power per day=760.6 wh
+Per months =22816.5wh
+From 0 to 50 kilo it costs=0.58L.e
+The cost is 22.816x0.58=13.2L.e
+
+It can be reduced If I made sure that the efficiency of the charger really high
