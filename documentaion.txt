@@ -1,0 +1,3 @@
+Linux was good, but nothing compared to Windows. Although there isn't a lot of clicking, Windows displays everything better. In Windows, you can simply create folders with the mouse and see the following steps.  however, in linux you need to memorize commands like mkdir to create folders and mv to copy files, which can be less intuitive. Ctrl+C makes more sense for copying files.
+
+To edit a file in Linux, you need to type nano, while in Windows, you can simply click on it. Overall, it was a new experience, and in my opinion, Linux is better suited for specialized tasks like robotics. As Eng. Nour mentioned, it allows us to control robots and access their files from a personal device.
